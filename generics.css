@@ -1,0 +1,102 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  background-image: url('images/textured_stripes.png');
+  min-height: 100%;
+  width: 100%;
+  font-size: 62.5%;
+  line-height: 140%;
+  font-family: tahoma,arial,sans-serif;
+}
+
+/*** TEXT ETC ***/
+
+h1, h2 {
+	text-transform: lowercase;
+	font-weight: normal;
+	padding: 0;
+	text-align: left;
+}
+h1 {
+  margin: 4px 0;
+  font-size: 4em;
+  color: #aaa;
+  letter-spacing: 0.04em;
+  z-index: 99;
+  line-height: 110%;
+}
+h2 {
+  font-size: 3em;
+  color: #8570D5;
+  line-height: 100%;
+  margin: 0 0 8px 0;
+}
+
+p, #mainContain li {
+  font-size: 1.3em;
+  line-height: 120%;
+}
+#mainContain li { margin-bottom: 0.6em; }
+
+.subhead { color: #999; font-size: 1.4em; }
+.emphasis { font-size: 2em; color: #333; }
+.big { font-size: 1.5em; }
+.small { font-size: 1.2em; }
+
+a, img { border: none; }
+a:link { color: inherit; text-decoration: none; }
+a:visited { color: inherit; text-decoration: none; }
+
+.whiteContain a:link,
+.whiteContain a:visited { color: #674CCA; }
+.whiteContain a:hover { color: #8570D5; }
+
+/*** ALIGNMENT ETC ***/
+
+.noMargL { margin-left: 0; }
+.noMargR { margin-right: 0; }
+.sidePadding {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.right { float: right; }
+.left { float: left; }
+.clear { clear: both; }
+.inline { display: inline; }
+
+.topMarg20 { margin-top: 20px; }
+.topMarg50 { margin-top: 50px; }
+.botMarg20 { margin-bottom: 20px; }
+.indent20 { margin-left: 20px; }
+.indent40 { margin-left: 40px; }
+.margR20 { margin-right: 20px; }
+
+.twoColumn { width: 48% }
+.singleSpaced { line-height: 100%; margin: 0; }
+.doubleSpaced { line-height: 200%; }
+
+.center { margin: 0 auto; text-align: center; }
+.vertMid {
+  display: table;
+  text-align: left;
+}
+.vertMid div {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/*** APPLIED TO MANY CLASSES ***/
+
+/* borders etc */
+#navContain, #nav ul,
+.whiteContain, .squareLink {
+	box-shadow: 3px 3px 3px 0 #666;
+}
+.whiteContain, .squareLink {
+	border-radius: 4px;
+}
+	
