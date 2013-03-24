@@ -1,6 +1,7 @@
 <?php
 $title='old person app';
 $bodyId='oldPerson';
+$bodyClass='appsPage';
 include 'header.php';
 ?>
 

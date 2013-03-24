@@ -14,6 +14,8 @@
 #navContain, #nav ul {
 	background-color: #674CCA;
 	border-radius: 0 0 4px 4px;
+	-webkit-border-radius: 0 0 4px 4px;
+	-moz-border-radius: 0 0 4px 4px;
 }
 /*nav bar*/
 #navContain {
@@ -110,6 +112,8 @@
 .squareLink:hover {
   background-color: #eee;
   box-shadow: 3px 3px 3px 0 #666 inset;
+  -webkit-box-shadow: 3px 3px 3px 0 #666 inset;
+  -moz-box-shadow: 3px 3px 3px 0 #666 inset;
 }
 .squareLink div {
   position: relative;

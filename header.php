@@ -9,7 +9,7 @@
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="main.js"></script>
   </head>
-  <body id="<?php echo $bodyId; ?>">
+  <body id="<?php echo $bodyId; ?>" class="<?php echo $bodyClass; ?>">
     <nav id="navContain">
       <ul id="nav">
         <li><a id="homeTab" href="index.php" title="home">home</a></li>
