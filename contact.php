@@ -4,8 +4,8 @@ $bodyId='contact';
 include 'header.php';
 ?>
 
-					<h1>contact us</h1>
-				</div>
+          <h1>contact us</h1>
+        </div>
       </div>
       <div class="whiteContain">
         <div class="topMarg20">

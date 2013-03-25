@@ -2,8 +2,8 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>third layer software -  <?php echo $title; ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>third layer software -  <?php echo $title; ?></title>
     <link rel="stylesheet" href="main.css" />
     <link rel="stylesheet" href="generics.css" />
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
@@ -26,5 +26,5 @@
     </nav>
     <div id="mainContain">
       <div class="whiteContain headContain">
-				<div class="vertMid">
+        <div class="vertMid">
 

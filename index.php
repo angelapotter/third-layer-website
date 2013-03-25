@@ -4,13 +4,13 @@ $bodyId='home';
 include 'header.php';
 ?>
 
-					<h1>third layer home</h1>
-				</div>
+          <h1>third layer home</h1>
+        </div>
       </div>
       <div class="whiteContain">
-				<div class="left">
-					<img class="mobileScreenshotSmall" src="images/old-person/all-off-460h.png" />
-				</div>
+        <div class="left">
+          <img class="mobileScreenshotSmall" src="images/old-person/all-off-460h.png" />
+        </div>
         <div class="frontPageRightColumn">
           <p class="emphasis" style="font-size:2.6em;"><a href="oldperson.php">Old Person App</a><br />was just released!</p>
           <p class="big">Old Person App combines a <b>magnifying glass, flashlight,</b> and <b>large-print notebook</b> in one simple interface. With its big text and straightforward navigation, this app is extremely easy to use. You can even use the flashlight in combination with the magnifying glass or notebook.</p>

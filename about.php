@@ -4,8 +4,8 @@ $bodyId='about';
 include 'header.php';
 ?>
 
-					<h1>about third layer</h1>
-				</div>
+          <h1>about third layer</h1>
+        </div>
       </div>
       <div class="whiteContain">
         <p>We're a Seattle-based software company specializing in mobile applications. Third Layer Software builds comprehensive apps that make people's lives easier and more fun.</p>

@@ -4,8 +4,8 @@ $bodyId='apps';
 include 'header.php';
 ?>
 
-					<h1>third layer apps</h1>
-				</div>
+          <h1>third layer apps</h1>
+        </div>
       </div>
       <div class="whiteContain">
         <div class="topMarg20 vertMid">

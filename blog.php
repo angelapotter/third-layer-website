@@ -4,8 +4,8 @@ $bodyId='blog';
 include 'header.php';
 ?>
 
-					<h1>third layer blog</h1>
-				</div>
+          <h1>third layer blog</h1>
+        </div>
       </div>
       <div class="whiteContain">
         <h2 class="topMarg20">introducing old person app</h2>
